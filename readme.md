@@ -1,3 +1,4 @@
+[![Open in Codespaces](https://classroom.github.com/assets/launch-codespace-7f7980b617ed060a017424585567c406b6ee15c891e84e1186181d67ecf80aa0.svg)](https://classroom.github.com/open-in-codespaces?assignment_repo_id=14942238)
 # MongoDB 데이터베이스 연결
 
 이번 과제에서는 MongoDB 데이터베이스에 연결하고 데이터를 읽고 쓰는 방법을 배웁니다.
